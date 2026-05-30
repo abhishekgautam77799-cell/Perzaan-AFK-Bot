@@ -3,7 +3,8 @@
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "online
+    "
   },
   "server": {
     "ip": "JAPAN67xxx.aternos.me",
